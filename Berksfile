@@ -1,3 +1,3 @@
 site :opscode
 
-cookbook 'mongodb-opsworks'
+cookbook 'mongodb', '~> 0.16.2'

@@ -1,4 +1,4 @@
-name        "mongodb-opsworks"
+name        "mongodb-cw"
 description 'Example cookbook for MongoDB Berkshelf based install'
 maintainer  "Guilherme.Pires@ericsson.com"
 license     "Apache 2.0"
